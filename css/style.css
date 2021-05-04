@@ -1,0 +1,40 @@
+*  {
+    box-sizing: border-box;
+}
+nav {
+   margin: 0%;
+    background-color: rgb(100, 96, 96);
+}
+nav ul li {
+   display: inline-block;
+   margin: 0 35px ;
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(189, 177, 177);
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    font-family: cursive;
+
+}
+img {
+    margin: 0%;
+    padding: 30px;
+}
+#fifty {
+    width: 50%;
+}  
+p {
+    
+        
+    overflow: scroll;
+    
+}
+  
+footer {
+    margin: 0%;
+    background-color: grey ;
+    padding: 125px;
+}
